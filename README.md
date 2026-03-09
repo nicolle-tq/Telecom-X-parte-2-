@@ -1,4 +1,4 @@
-Telecom X — Predicción de Cancelación de# Telecom X — Predicción de Cancelación de Clientes (Churn)
+# Telecom X — Predicción de Cancelación de Clientes (Churn)
 
 ## Descripción del proyecto
 
