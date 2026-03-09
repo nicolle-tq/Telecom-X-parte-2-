@@ -78,4 +78,4 @@ Este tipo de análisis puede ayudar a Telecom X a identificar clientes con mayor
 ---
 
 ## Estructura del repositorio
- Clientes (Churn
+ Clientes (Churn)
